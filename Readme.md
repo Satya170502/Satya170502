@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ksatya1705" target="blank"><img src="https://img.shields.io/twitter/follow/ksatya1705?logo=twitter&style=for-the-badge" alt="ksatya1705" /></a> </p>
 
-- 🌱 I’m currently learning **React And AWS**
+- 🌱 I’m currently learning **React And DevOps**
 
 - 👨‍💻 All of my projects are available at [https://satya-dev.netlify.app/](https://satya-dev.netlify.app/)
 
